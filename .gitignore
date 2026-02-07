@@ -6,3 +6,4 @@ test/*
 
 outcome/nogithub/
 .venv
+.idea
