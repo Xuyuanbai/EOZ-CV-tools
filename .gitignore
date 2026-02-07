@@ -1,0 +1,7 @@
+data/RAW/*
+!data/RAW/.gitkeep
+
+test/*
+!test/.gitkeep
+
+outcome/nogithub/
