@@ -22,3 +22,9 @@ pip install -r requirements.txt
      1. 面积法：运行scr/main_batch.py进行批量计算，并导出为csv文件；
      2. 传统6-line法：运行scr/6-Line_batch.py进行批量计算，并导出为csv文件。
 3. 导出的csv默认位于output目录中。
+
+# TODO LIST
+- [ ] 添加自动配置环境逻辑
+- [ ] 优化输入与输出步骤
+- [ ] readme文档添加科学性与准确性验证结果
+- [ ] ...
