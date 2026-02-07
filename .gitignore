@@ -1,9 +1,8 @@
 data/RAW/*
 !data/RAW/.gitkeep
-
 test/*
 !test/.gitkeep
-
-outcome/nogithub
+output/*
+!output/.gitkeep
 .venv
 .idea
