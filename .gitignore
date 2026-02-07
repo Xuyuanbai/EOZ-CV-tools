@@ -4,6 +4,6 @@ data/RAW/*
 test/*
 !test/.gitkeep
 
-outcome/nogithub/
+outcome/nogithub
 .venv
 .idea
